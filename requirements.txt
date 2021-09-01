@@ -1,0 +1,6 @@
+flask
+apscheduler
+gunicorn
+pymongo
+requests
+bson
